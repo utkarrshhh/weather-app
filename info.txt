@@ -1,0 +1,6 @@
+weather api 
+add -- &units=metric
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+api key--  1d686110cdaa9c80154b21b87d0133ac
